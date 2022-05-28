@@ -33,3 +33,11 @@ More in the future.
 VSCode: [Download](https://code.visualstudio.com/Download)
 
 ---
+
+## Original Sauce
+
+### Basics
+
+1. [Starting Web Dev Journey with HTML - Part 1](https://www.instagram.com/p/CeG0UNLpa_E/)
+    + HTML Layout (tags, head, body)
+    + Basic Tags (heading, p, img, a)
