@@ -38,6 +38,14 @@ VSCode: [Download](https://code.visualstudio.com/Download)
 
 ### Basics
 
-1. [Starting Web Dev Journey with HTML - Part 1](https://www.instagram.com/p/CeG0UNLpa_E/)
+1. [Starting Web Dev Journey with HTML](https://www.instagram.com/p/CeG0UNLpa_E/)
     + HTML Layout (tags, head, body)
     + Basic Tags (heading, p, img, a)
+
+2. [Some more HTML: The Not So Boring Tags](https://www.instagram.com/p/CeMEd76tVOe/)
+    + Class and ID on a tag
+    + div tag
+    + Lists - ordered and Unordered
+
+3. [HTML: The Sounds Like English To Me Tags](https://www.instagram.com/p/CeRM5KWK3jg/)
+    + Semantic Tags (header, nav, main, aside, section, article, footer)
